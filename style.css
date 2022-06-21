@@ -323,6 +323,11 @@ h2 {
 }
 
 @media screen and (max-width: 768px) {
+  .menu {
+    width: 60px;
+    height: 60px;
+  }
+
   h1 {
     width: 100%;
     font-size: 70px;
@@ -374,6 +379,12 @@ h2 {
 }
 
 @media screen and (max-width: 600px) {
+  .menu {
+    width: 60px;
+    height: 60px;
+    /*hola*/
+  }
+
   h1 {
     width: 100%;
     font-size: 60px;
