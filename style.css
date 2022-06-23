@@ -283,7 +283,7 @@ h2 {
   justify-content: center;
 }*/
 
-@media screen and (max-width: 1500px) {
+@media all and (max-width: 1500px) {
   nav {
     width: 30%;
   }
@@ -322,7 +322,7 @@ h2 {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media all and (max-width: 768px) {
   .menu {
     width: 60px;
     height: 60px;
@@ -378,7 +378,7 @@ h2 {
   }*/
 }
 
-@media screen and (max-width: 600px) {
+@media all and (max-width: 600px) {
   .menu {
     width: 60px;
     height: 60px;
