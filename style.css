@@ -299,7 +299,7 @@ h2 {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media all and (max-width: 1200px) {
   .boton {
     width: 40%;
   }
@@ -308,7 +308,7 @@ h2 {
   }
 
   nav {
-    width: 40%;
+    width: 100%;
   }
   .scroll-content {
     width: 100%;
